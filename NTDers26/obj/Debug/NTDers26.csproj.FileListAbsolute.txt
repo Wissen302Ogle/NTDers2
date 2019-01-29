@@ -1,0 +1,7 @@
+C:\Users\Section2\source\repos\ders2\NTDers26\bin\Debug\NTDers26.exe.config
+C:\Users\Section2\source\repos\ders2\NTDers26\bin\Debug\NTDers26.exe
+C:\Users\Section2\source\repos\ders2\NTDers26\bin\Debug\NTDers26.pdb
+C:\Users\Section2\source\repos\ders2\NTDers26\obj\Debug\NTDers26.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\ders2\NTDers26\obj\Debug\NTDers26.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\ders2\NTDers26\obj\Debug\NTDers26.exe
+C:\Users\Section2\source\repos\ders2\NTDers26\obj\Debug\NTDers26.pdb

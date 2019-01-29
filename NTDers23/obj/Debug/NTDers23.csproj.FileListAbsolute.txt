@@ -1,0 +1,7 @@
+C:\Users\Section2\source\repos\ders2\NTDers23\bin\Debug\NTDers23.exe.config
+C:\Users\Section2\source\repos\ders2\NTDers23\bin\Debug\NTDers23.exe
+C:\Users\Section2\source\repos\ders2\NTDers23\bin\Debug\NTDers23.pdb
+C:\Users\Section2\source\repos\ders2\NTDers23\obj\Debug\NTDers23.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\ders2\NTDers23\obj\Debug\NTDers23.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\ders2\NTDers23\obj\Debug\NTDers23.exe
+C:\Users\Section2\source\repos\ders2\NTDers23\obj\Debug\NTDers23.pdb

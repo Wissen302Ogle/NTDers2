@@ -1,0 +1,14 @@
+C:\Users\Section2\source\repos\ders2\ders2\bin\Debug\ders2.exe.config
+C:\Users\Section2\source\repos\ders2\ders2\bin\Debug\ders2.exe
+C:\Users\Section2\source\repos\ders2\ders2\bin\Debug\ders2.pdb
+C:\Users\Section2\source\repos\ders2\ders2\obj\Debug\ders2.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\ders2\ders2\obj\Debug\ders2.exe
+C:\Users\Section2\source\repos\ders2\ders2\obj\Debug\ders2.pdb
+C:\Users\Section2\source\repos\ders2\ders2\obj\Debug\ders2.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\ders2\ders2\bin\Debug\ders2.exe.config
+C:\Users\yusuf\Desktop\ders2\ders2\bin\Debug\ders2.exe
+C:\Users\yusuf\Desktop\ders2\ders2\bin\Debug\ders2.pdb
+C:\Users\yusuf\Desktop\ders2\ders2\obj\Debug\ders2.csprojAssemblyReference.cache
+C:\Users\yusuf\Desktop\ders2\ders2\obj\Debug\ders2.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\ders2\ders2\obj\Debug\ders2.exe
+C:\Users\yusuf\Desktop\ders2\ders2\obj\Debug\ders2.pdb

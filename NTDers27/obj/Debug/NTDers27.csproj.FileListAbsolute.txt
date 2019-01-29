@@ -1,0 +1,13 @@
+C:\Users\Section2\source\repos\ders2\NTDers27\bin\Debug\NTDers27.exe.config
+C:\Users\Section2\source\repos\ders2\NTDers27\bin\Debug\NTDers27.exe
+C:\Users\Section2\source\repos\ders2\NTDers27\bin\Debug\NTDers27.pdb
+C:\Users\Section2\source\repos\ders2\NTDers27\obj\Debug\NTDers27.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\ders2\NTDers27\obj\Debug\NTDers27.exe
+C:\Users\Section2\source\repos\ders2\NTDers27\obj\Debug\NTDers27.pdb
+C:\Users\Section2\source\repos\ders2\NTDers27\obj\Debug\NTDers27.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\ders2\NTDers27\bin\Debug\NTDers27.exe.config
+C:\Users\yusuf\Desktop\ders2\NTDers27\bin\Debug\NTDers27.exe
+C:\Users\yusuf\Desktop\ders2\NTDers27\bin\Debug\NTDers27.pdb
+C:\Users\yusuf\Desktop\ders2\NTDers27\obj\Debug\NTDers27.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\ders2\NTDers27\obj\Debug\NTDers27.exe
+C:\Users\yusuf\Desktop\ders2\NTDers27\obj\Debug\NTDers27.pdb
